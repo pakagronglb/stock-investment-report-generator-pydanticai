@@ -1,5 +1,10 @@
 # Stock Investment Report Generator 💰
 
+<img width="953" alt="Screenshot 2025-03-24 at 15 10 31" src="https://github.com/user-attachments/assets/252f5e3b-7c5f-468d-8bf7-18a277c32106" />
+
+<img width="964" alt="Screenshot 2025-03-24 at 15 09 44" src="https://github.com/user-attachments/assets/605ed0cc-47cd-4f0b-8f35-a226e8c2c619" />
+
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)](https://openai.com/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-2.0+-orange.svg)](https://pydantic-docs.helpmanual.io/)
@@ -9,6 +14,13 @@
 ## Overview ⚙️
 
 An intelligent, AI-powered tool for generating comprehensive stock investment reports. This application leverages OpenAI's models through PydanticAI to provide detailed analysis of stock performance, company fundamentals, and investment recommendations.
+
+<img width="766" alt="Screenshot 2025-03-24 at 15 09 27" src="https://github.com/user-attachments/assets/b5a522fe-c319-4153-9ea8-56632ddddf27" />
+
+<img width="948" alt="Screenshot 2025-03-24 at 15 09 18" src="https://github.com/user-attachments/assets/9df5cad0-6933-4c39-8294-ea329d5bd325" />
+
+<img width="272" alt="Screenshot 2025-03-24 at 15 07 11" src="https://github.com/user-attachments/assets/87aaaf06-93b3-4962-b19f-a4b3393ffd84" />
+
 
 ## Features ✨
 
